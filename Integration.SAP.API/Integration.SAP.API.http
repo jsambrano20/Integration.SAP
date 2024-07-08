@@ -1,0 +1,6 @@
+@Integration.SAP.API_HostAddress = http://localhost:5238
+
+GET {{Integration.SAP.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
